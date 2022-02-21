@@ -33,29 +33,35 @@
 ## 菜谱
 
 ### 家常菜
-
-* [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
-* [地三鲜](./dishes/home-cooking/地三鲜.md)
-* 水煮肉片 (等待大佬编写中……)
-* [回锅肉](./dishes/home-cooking/回锅肉.md)
-* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
-* [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
-* [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
-* [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
-* [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
-* [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
-* [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
-* [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
-* [香干肉丝](./dishes/home-cooking/香干肉丝.md)
-* [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
-* [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
-* [小炒肉](./dishes/home-cooking/小炒肉.md)
-* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
-* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+#### 热菜
+##### 荤菜
 * [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
+* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
 * [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
+* [回锅肉](./dishes/home-cooking/回锅肉.md)
+* [小炒肉](./dishes/home-cooking/小炒肉.md)
+* [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
 * [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
+* [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
+##### 半荤
+* [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
+* [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
+* [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
+* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
 * [咕噜肉](./dishes/home-cooking/咕噜肉.md)
+* [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
+* [香干肉丝](./dishes/home-cooking/香干肉丝.md)
+* [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
+* 水煮肉片 (等待大佬编写中……)
+
+##### 素菜
+* [地三鲜](./dishes/home-cooking/地三鲜.md)
+* [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
+* [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
+* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
+* 
+#### 凉菜
+* [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
 
 ### 早餐
 
